@@ -1,5 +1,5 @@
 # Oksana Zharikova  
-![photo](H:\Oksana\study\RS School\CV\rsschool-cv)
+![photo](viber_image_2021-08-25_22-21-24-191.jpg)
 # Junior Frontend Developer    
 ## Contact information: 
 **Phone:** +38096-121-77-33    
