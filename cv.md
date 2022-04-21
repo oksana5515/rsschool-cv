@@ -2,11 +2,13 @@
 ![photo](viber_image_2021-08-25_22-21-24-191.jpg)
 # Junior Frontend Developer    
 ## Contact information: 
-**Phone:** +38096-121-77-33    
+**Phone:** +38096-121-77-33, +34602526624
 **E-mail:** oksana.5515@gmail.com  
-**City:** Lviv, Ukraine  
+**City:** Manila, Spain
 **Linkedin:** https://www.linkedin.com//in/oksana-zharikova-4596ba19a  
 **RS school nickname:** oksana5515
+**github nickmame:** oksana5515
+**codewars nickname:** oksana5515
 ## Objective   
 Start a career as Junior Front-End Developer.  
 ## Summary
@@ -48,9 +50,10 @@ Implement a function that accepts 3 integer values a, b, c. The function should 
 * JavaScript Manual on learnjavascript.ru (in progress)  
 * Udemy: HTML/CSS, JavaScript.
 ## Languages:
-* English -  Intermediate
+* English -  Elementary
 * Russian - Native
 * Ukranian - Proficiency 
+* Spain - Beginner
 
 
 
