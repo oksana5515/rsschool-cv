@@ -48,6 +48,6 @@ Implement a function that accepts 3 integer values a, b, c. The function should 
 * Udemy: HTML/CSS, JavaScript.
 ## Languages:
 * English -  Intermediate
-* Spain - Intermediate
+* Spanish - Intermediate
 * Russian - Native
 * Ukranian - Proficiency 
