@@ -50,4 +50,4 @@ Implement a function that accepts 3 integer values a, b, c. The function should 
 * English -  Intermediate
 * Spanish - Intermediate
 * Russian - Native
-* Ukranian - Proficiency 
+* Ukrainian – Proficient
