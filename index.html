@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>grid layout</title>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+   <link rel="stylesheet" href="style/global-style.css">
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+   <div class="container">
+      <div class="wrapper">
+         <header class="main-head">
+            <div class="title">
+               <img class="photo" src="./img/photo.jpg" alt="my_photo">
+               <div>
+                  <h1>Oksana Zharikova</h1>
+                  <h3>Front-End Developer Intern</h3>
+               </div>
+            </div>
+            <div class="contacts">
+               <ul class="contacts-item">
+                  <li>Phone: +38096-121-77-33</li>
+                  <li>E-mail: oksana.5515@gmail.com</li>
+                  <li>City: Manilva, Spain</li>
+                  <li>Linkedin:<a href="https://www.linkedin.com//in/oksana-zharikova-4596ba19a">Oksana Zharikova</a>
+                  </li>
+                  <li>RS school nickname: oksana5515</li>
+               </ul>
+            </div>
+         </header>
+         <nav class="main-nav">
+            <ul>
+               <li><a href="#contacts">Contacts</a></li>
+               <li><a href="#summary">Summary</a></li>
+               <li><a href="#skills">Skills</a></li>
+               <li><a href="#code">Code</a></li>
+               <li><a href="#courses">Courses</a></li>
+               <li><a href="#projects">Projects</a></li>
+               <li><a href="#education">Education</a></li>
+               <li><a href="#languages">Languages</a></li>
+            </ul>
+         </nav>
+         <main class="content">
+            <section id="summary">
+               <h2>Summary</h2>
+               <p>Motivated and detail-oriented aspiring Front-End Developer with strong foundational knowledge in HTML,
+                  CSS, JavaScript, and React. Seeking an internship opportunity to apply and grow my technical skills in
+                  a collaborative and fast-paced environment.</p>
+            </section>
+            <section id="courses">
+               <h2>Courses</h2>
+               <ul>
+                  <li>MDN Web docs "Learn web development"</li>
+                  <li>RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)</li>
+                  <li>JavaScript Manual on learnjavascript.ru (in progress)</li>
+                  <li>Udemy: HTML/CSS, JavaScript.</li>
+               </ul>
+            </section>
+            <section id="education">
+               <h2>Education</h2>
+               <p>Front-End Development Course — Online(CyberBionic Systematics), 2025</p>
+            </section>
+            <section id="projects">
+               <h2>Projects</h2>
+               <a href="https://rolling-scopes-school.github.io/oksana5515-JSFEPRESCHOOL2024Q2/shelter/pages/main/"
+                  class="shelter">myProjects</a>
+            </section>
+            <section id="code">
+
+               <h2>Code</h2>
+               <p>
+                  Code example:
+                  Implement a function that accepts 3 integer values a, b, c.
+                  The function should return true if a triangle can be built
+                  with the sides of given length and false in any other case</p>
+               <pre><code>
+function isTriangle(a, b, c) {
+  return a + b > c && a + c > b && b + c > a;
+}
+</code></pre>
+
+
+            </section>
+         </main>
+         <aside class="side">
+            <section id="skills">
+               <h2>Technical Skills</h2>
+               <ul>
+                  <li>JavaScript</li>
+                  <li>HTML5</li>
+                  <li> CSS, SCSS</li>
+                  <li>Git, GitHub</li>
+                  <li>VS Code, Figma</li>
+                  <li>React</li>
+               </ul>
+            </section>
+            <section id="languages">
+               <h2>Languages</h2>
+               <ul>
+                  <li>English - Intermediate</li>
+                  <li>Spanish – Intermediate</li>
+                  <li>Russian - Native</li>
+                  <li>Ukrainian – Proficient</li>
+               </ul>
+            </section>
+         </aside>
+         <footer class="main-foot">
+            <div>2025</div>
+            <div> <a href="https://github.com/oksana5515" class="github nav-link">myGitHub</a>
+            </div>
+            <div>
+               <a href="https://rs.school/courses/javascript-preschool-ru" class="rss">
+                  <img src="./img/th.jpeg" alt="RSSchool"></a>
+            </div>
+         </footer>
+      </div>
+   </div>
+</body>
+
+</html>
